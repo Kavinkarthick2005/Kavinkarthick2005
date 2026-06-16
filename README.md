@@ -58,9 +58,9 @@ AI-powered couple companion app with a unique He / She / Us navigation space —
 
 </td>
 <td width="50%">
-🤖 WhisperFlow AI-native CRM with multi-agent orchestration, intelligent segmentation, and marketing automation.
 **🤖 CRM**
 WhisperFlow AI-native CRM with multi-agent orchestration, intelligent segmentation, and marketing automation.
+  
 `AI` `Full-Stack`
 
 </td>

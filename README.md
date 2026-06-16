@@ -1,27 +1,123 @@
-# 💫 About Me:
-🎮 Kavin Karthick R | Leveling Up in AI & Game Dev 🚀<br>🛠 Class: AI Engineer in the Making<br>🎓 Current Quest: Sophomore @ SRM University<br>🎮 Special Ability: Crafting immersive games with AI<br>🎵 Buffs: Gaming, Music, Sports, and all things interactive<br><br>Welcome to my world! I’m on a mission to merge AI with gaming, creating epic experiences that push the boundaries of what’s possible. Whether it's developing VR-based interactive games or optimizing game mechanics with smart algorithms, I’m always grinding towards the next big thing.<br><br>💡 Side Quests: Exploring deep learning, hacking together creative projects, and vibing to legendary game soundtracks.<br><br>When I'm not coding, you’ll find me exploring story-driven RPGs, tuning into epic soundtracks, or hitting the field for some sports action.<br><br>My dream? To push the boundaries of AI in gaming and create unforgettable experiences.<br><br>Ready to co-op? Let’s team up and build something awesome! ⚡
+<div align="center">
+<!-- Typing animation -->
+<a href="https://github.com/Kavinkarthick2005">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Kavin+Karthick+R;AI+%2B+Full-Stack+Builder;Turning+Ideas+Into+Shipped+Products;B.Tech+AI+%26+Data+Science+%E2%80%9927" alt="Typing SVG" />
+</a>
+</div>
+<br>
+<table align="center">
+<tr>
+<td width="60%" valign="top">
+whoami
 
+I build things end-to-end — from reinforcement learning pipelines to cross-platform apps people actually use. Currently engineering Us, an AI-powered couple companion app, and shipping projects across AI, mobile, and full-stack systems.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/2XHffPNWBS) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/kavin_karthick10/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kavinkarthick/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/throne_of_games10/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@kavinkarthick.r4142) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kavinkarthick2005@gmail.com) 
+pythonclass Kavin:
+    def __init__(self):
+        self.role        = "AI & Data Science Student"
+        self.based_in    = "Chennai, India"
+        self.focus       = ["Reinforcement Learning", "Agentic AI", "Mobile Apps"]
+        self.currently_building = "Us — AI couple companion app"
+        self.philosophy  = "ship it, then make it smarter"
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kavinkarthick2005&theme=maroongold&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Kavinkarthick2005&theme=maroongold&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavinkarthick2005&theme=maroongold&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+    def get_in_touch(self):
+        return "always open to interesting problems"
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kavinkarthick2005&theme=maroongold&no-frame=false&no-bg=true&margin-w=4)
+</td>
+<td width="40%" valign="top">
+🎓 B.Tech AI & Data Science
+SRM Institute of Science and Technology
+2023 — 2027
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+📍 Chennai, India
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Kavinkarthick2005&limit=5&theme=maroongold&combine_all_yearly_contributions=true)
+🔭 Building: Us — He / She / Us
+🌱 Exploring: Agentic AI systems
+⚡ Past internships: AI Engineering, VR Game Dev, Mobile Game Dev
 
----
-[![](https://visitcount.itsvg.in/api?id=Kavinkarthick2005&icon=7&color=7)](https://visitcount.itsvg.in)
+</td>
+</tr>
+</table>
+<br>
+Tech Stack
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,flutter,fastapi,firebase,postgres,nextjs,dart,git,figma,vscode&theme=dark" />
+</div>
+<div align="center">
+Python Flutter / Dart FastAPI Firebase Supabase PostgreSQL Next.js PPO / Stable-Baselines3 Groq · Llama 3
+
+</div>
+<br>
+Featured Work
+
+<table>
+<tr>
+<td width="50%">
+💞 Us
+AI-powered couple companion app with a unique He / She / Us navigation space — Moments, Open-When Letters, AI Gift Search, Monthly Recap.
+Flutter Supabase Groq/Llama 3 FCM
+
+</td>
+<td width="50%">
+📊 CRM
+A full-featured CRM system built for real-world business workflows.
+Full-Stack
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+🌍 Carbon AQI
+Real-time air quality monitoring & forecasting using XGBoost prediction and PPO reinforcement learning.
+XGBoost PPO RL
+
+</td>
+<td width="50%">
+🧭 CareerPro
+AI-driven career guidance platform helping students map skills to opportunities.
+AI Full-Stack
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+🧠 Rehab Game
+A VR rehabilitation game designed to support stroke patient recovery through guided motion-based exercises.
+VR Game Dev HealthTech
+
+</td>
+<td width="50%">
+🔎 Agentic Company Scout
+An autonomous agent that researches and profiles companies for outreach and analysis.
+Agentic AI LLMs
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+🎮 FlowState RL
+Dynamic difficulty adjustment for 2D games using PPO — a closed-loop system that adapts gameplay in real time to player skill.
+PPO Stable-Baselines3 RL
+
+</td>
+</tr>
+</table>
+<br>
+GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Kavinkarthick2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavinkarthick2005&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
+</div>
+<br>
+Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Kavinkarthick2005/Kavinkarthick2005/output/github-contribution-grid-snake.svg" width="100%" />
+</div>
+<br>
+<div align="center">
+Building quietly, shipping loudly.
+
+</div>

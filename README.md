@@ -28,9 +28,7 @@ python class Kavin:
 🎓 B.Tech AI
 
 SRM Institute of Science and Technology
-
 2023 — 2027
-
 📍 Chennai, India
 
 🔭 Building: Us — He / She / Us

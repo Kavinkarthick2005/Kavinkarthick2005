@@ -137,13 +137,11 @@ Dynamic difficulty adjustment for 2D games using PPO — a closed-loop system th
 
 <br>
 
-<br>
-
 ## `$ ./list_trophies.sh`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Kavinkarthick2005&theme=onedark&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Kavinkarthick2005&row=1&column=6" />
 
 </div>
 
@@ -171,6 +169,7 @@ $ git log --author="Kavin" --oneline | wc -l
 
 <br>
 <br>
+<br>
 
 ```
 ██╗  ██╗ █████╗ ██╗   ██╗██╗███╗   ██╗
@@ -181,6 +180,7 @@ $ git log --author="Kavin" --oneline | wc -l
 ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝
 ```
 
+<br>
 <br>
 <br>
 

@@ -26,7 +26,9 @@ python class Kavin:
 </td>
 <td width="40%" valign="top">
 🎓 B.Tech AI
+
 SRM Institute of Science and Technology
+
 2023 — 2027
 
 📍 Chennai, India

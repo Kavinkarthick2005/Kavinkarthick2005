@@ -4,7 +4,7 @@
 
 <br>
 
-### whoami
+### who am i
 
 I build things end-to-end — from reinforcement learning pipelines to cross-platform apps people actually use. Currently engineering **Us**, an AI-powered couple companion app, and shipping projects across AI, mobile, and full-stack systems.
 

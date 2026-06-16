@@ -137,16 +137,6 @@ Dynamic difficulty adjustment for 2D games using PPO — a closed-loop system th
 
 <br>
 
-## `$ ./list_trophies.sh`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kavinkarthick2005&row=1&column=6" />
-
-</div>
-
-<br>
-
 ## `$ ./run_snake.sh`
 
 <div align="center">

@@ -60,9 +60,8 @@ Flutter Supabase Groq/Llama 3 FCM
 
 </td>
 <td width="50%">
-📊 CRM
-A full-featured CRM system built for real-world business workflows.
-Full-Stack
+🤖 CRM
+WhisperFlow AI-native CRM with multi-agent orchestration, intelligent segmentation, and marketing automation. AI Full-Stack
 
 </td>
 </tr>

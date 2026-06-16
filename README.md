@@ -12,11 +12,7 @@
 
 I build things end-to-end — from reinforcement learning pipelines to cross-platform apps people actually use. Currently engineering **Us**, an AI-powered couple companion app, and shipping projects across AI, mobile, and full-stack systems.
 
-```bash
-$ whoami
-> kavin_karthick_r — AI & Full-Stack Builder
-
-$ cat profile.py
+```python
 class Kavin:
     def __init__(self):
         self.role        = "AI Student"
@@ -25,8 +21,8 @@ class Kavin:
         self.currently_building = "Us — AI couple companion app"
         self.philosophy  = "ship it, then make it smarter"
 
-$ ./get_in_touch.sh
-> always open to interesting problems_
+    def get_in_touch(self):
+        return "always open to interesting problems"
 ```
 
 <br>
@@ -122,8 +118,8 @@ Dynamic difficulty adjustment for 2D games using PPO — a closed-loop system th
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kavinkarthick2005&show_icons=true&theme=matrix&hide_border=true&count_private=true&icon_color=39FF14&title_color=39FF14&text_color=c9c9c9&bg_color=0D1117" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavinkarthick2005&layout=compact&theme=matrix&hide_border=true&icon_color=39FF14&title_color=39FF14&text_color=c9c9c9&bg_color=0D1117" width="38%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kavinkarthick2005&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9c9c9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavinkarthick2005&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9c9c9" width="38%" />
 
 </div>
 

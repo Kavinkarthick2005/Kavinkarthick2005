@@ -19,7 +19,7 @@ jobs:
         with:
           github_user_name: Kavinkarthick2005
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=39FF14,39FF14,39FF14,39FF14,39FF14&color_dots=0d1117,0e2e0e,145214,1d7a1d,39FF14
+            dist/github-contribution-grid-snake.svg?color_snake=%2339FF14&color_dots=%230D1117,%23145214,%231D7A1D,%2329CC29,%2339FF14
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
@@ -27,4 +27,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
- 

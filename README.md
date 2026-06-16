@@ -12,7 +12,7 @@ whoami
 
 I build things end-to-end — from reinforcement learning pipelines to cross-platform apps people actually use. Currently engineering Us, an AI-powered couple companion app, and shipping projects across AI, mobile, and full-stack systems.
 
-pythonclass Kavin:
+python class Kavin:
     def __init__(self):
         self.role        = "AI & Data Science Student"
         self.based_in    = "Chennai, India"
@@ -25,7 +25,7 @@ pythonclass Kavin:
 
 </td>
 <td width="40%" valign="top">
-🎓 B.Tech AI & Data Science
+🎓 B.Tech AI
 SRM Institute of Science and Technology
 2023 — 2027
 

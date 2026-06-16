@@ -1,24 +1,32 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Kavin+Karthick+R;AI+%2B+Full-Stack+Builder;Turning+Ideas+Into+Shipped+Products;B.Tech+AI+%26+Data+Science+%E2%80%9927&font=Fira+Code&center=true&width=600&height=50&size=28&color=2F81F7&vCenter=true&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=%24+whoami;%3E+Kavin_Karthick_R;%3E+AI_%2B_Full-Stack_Builder;%3E+Turning_Ideas_Into_Shipped_Products;%3E+B.Tech_AI_%26_Data_Science_27&font=Fira+Code&center=true&width=650&height=60&size=24&color=39FF14&background=000000&vCenter=true&pause=1200" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Connection+established...;Access+granted+%E2%9C%93&font=Fira+Code&center=true&width=400&height=30&size=14&color=39FF14&background=000000&vCenter=true&pause=2000&repeat=false" alt="Status" />
 </p>
 
 <br>
 
-### who am i
+### `$ cat about.txt`
 
 I build things end-to-end — from reinforcement learning pipelines to cross-platform apps people actually use. Currently engineering **Us**, an AI-powered couple companion app, and shipping projects across AI, mobile, and full-stack systems.
 
-```python
-class Kavin:
-    def __init__(self):
-        self.role        = "AI & Data Science Student"
-        self.based_in    = "Chennai, India"
-        self.focus       = ["Reinforcement Learning", "Agentic AI", "Mobile Apps"]
-        self.currently_building = "Us — AI couple companion app"
-        self.philosophy  = "ship it, then make it smarter"
+```bash
+$ whoami
+> kavin_karthick_r — AI & Full-Stack Builder
 
-    def get_in_touch(self):
-        return "always open to interesting problems"
+$ cat profile.json
+{
+  "role": "AI & Data Science Student",
+  "based_in": "Chennai, India",
+  "focus": ["Reinforcement Learning", "Agentic AI", "Mobile Apps"],
+  "currently_building": "Us — AI couple companion app",
+  "philosophy": "ship it, then make it smarter"
+}
+
+$ ./get_in_touch.sh
+> always open to interesting problems_
 ```
 
 <br>
@@ -58,9 +66,9 @@ AI-powered couple companion app with a unique He / She / Us navigation space —
 
 </td>
 <td width="50%">
-🤖 CRM
-WhisperFlow AI-native CRM with multi-agent orchestration, intelligent segmentation, and marketing automation.
-  
+
+**🤖 CRM**
+WhisperFlow — AI-native CRM with multi-agent orchestration, intelligent segmentation, and marketing automation.
 `AI` `Full-Stack`
 
 </td>
@@ -110,18 +118,18 @@ Dynamic difficulty adjustment for 2D games using PPO — a closed-loop system th
 
 <br>
 
-## GitHub Stats
+## `$ ./show_stats.sh`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kavinkarthick2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavinkarthick2005&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kavinkarthick2005&show_icons=true&theme=matrix&hide_border=true&count_private=true&icon_color=39FF14&title_color=39FF14&text_color=c9c9c9&bg_color=0D1117" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavinkarthick2005&layout=compact&theme=matrix&hide_border=true&icon_color=39FF14&title_color=39FF14&text_color=c9c9c9&bg_color=0D1117" width="38%" />
 
 </div>
 
 <br>
 
-## Contribution Snake
+## `$ ./run_snake.sh`
 
 <div align="center">
 
@@ -133,6 +141,9 @@ Dynamic difficulty adjustment for 2D games using PPO — a closed-loop system th
 
 <div align="center">
 
-*Building quietly, shipping loudly.*
+```
+$ echo "wake up, kavin..."
+> Building quietly, shipping loudly._
+```
 
 </div>

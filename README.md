@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=%24+whoami;%3E+Kavin_Karthick_R;%3E+AI_%2B_Full-Stack_Builder;%3E+Turning_Ideas_Into_Shipped_Products;%3E+B.Tech_Artificial_Intelligence_27&font=Fira+Code&center=true&width=650&height=60&size=24&color=39FF14&background=000000&vCenter=true&pause=1200" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=%24+whoami;%3E+Kavin_Karthick_R;%3E+AI_%2B_Full-Stack_Builder;%3E+Turning_Ideas_Into_Shipped_Products&font=Fira+Code&center=true&width=650&height=60&size=24&color=39FF14&background=000000&vCenter=true&pause=1200" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -166,6 +166,7 @@ $ git log --author="Kavin" --oneline | wc -l
 ```
 
 <br>
+<br>
 
 ```
 ██╗  ██╗ █████╗ ██╗   ██╗██╗███╗   ██╗
@@ -175,6 +176,9 @@ $ git log --author="Kavin" --oneline | wc -l
 ██║  ██╗██║  ██║ ╚████╔╝ ██║██║ ╚████║
 ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝
 ```
+
+<br>
+<br>
 
 `thanks for stopping by — now go build something.`
 

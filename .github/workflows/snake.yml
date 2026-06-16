@@ -19,8 +19,7 @@ jobs:
         with:
           github_user_name: Kavinkarthick2005
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=39FF14,39FF14,39FF14,39FF14,39FF14&color_dots=0d1117,0e2e0e,145214,1d7a1d,39FF14
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Matrix_Digital_rain_banner.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/Kavinkarthick2005/Kavinkarthick2005/main/matrix_rain.svg" width="100%" />
 </p>
 
 <p align="center">
@@ -143,7 +143,7 @@ Dynamic difficulty adjustment for 2D games using PPO — a closed-loop system th
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Kavinkarthick2005&theme=dark_dimmed&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=Kavinkarthick2005&theme=onedark&no-frame=true&row=1&column=6" />
 
 </div>
 

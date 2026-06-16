@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Matrix_Digital_rain_banner.gif" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=%24+whoami;%3E+Kavin_Karthick_R;%3E+AI_%2B_Full-Stack_Builder;%3E+Turning_Ideas_Into_Shipped_Products&font=Fira+Code&center=true&width=650&height=60&size=24&color=39FF14&background=000000&vCenter=true&pause=1200" alt="Typing SVG" />
 </p>
 

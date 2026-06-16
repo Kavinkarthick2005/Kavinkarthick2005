@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=%24+whoami;%3E+Kavin_Karthick_R;%3E+AI_%2B_Full-Stack_Builder;%3E+Turning_Ideas_Into_Shipped_Products;%3E+B.Tech_AI_%26_Data_Science_27&font=Fira+Code&center=true&width=650&height=60&size=24&color=39FF14&background=000000&vCenter=true&pause=1200" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=%24+whoami;%3E+Kavin_Karthick_R;%3E+AI_%2B_Full-Stack_Builder;%3E+Turning_Ideas_Into_Shipped_Products;%3E+B.Tech_Artificial_Intelligence_27&font=Fira+Code&center=true&width=650&height=60&size=24&color=39FF14&background=000000&vCenter=true&pause=1200" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,14 +16,14 @@ I build things end-to-end — from reinforcement learning pipelines to cross-pla
 $ whoami
 > kavin_karthick_r — AI & Full-Stack Builder
 
-$ cat profile.json
-{
-  "role": "AI & Data Science Student",
-  "based_in": "Chennai, India",
-  "focus": ["Reinforcement Learning", "Agentic AI", "Mobile Apps"],
-  "currently_building": "Us — AI couple companion app",
-  "philosophy": "ship it, then make it smarter"
-}
+$ cat profile.py
+class Kavin:
+    def __init__(self):
+        self.role        = "AI Student"
+        self.based_in    = "Chennai, India"
+        self.focus       = ["Reinforcement Learning", "Agentic AI", "Mobile Apps"]
+        self.currently_building = "Us — AI couple companion app"
+        self.philosophy  = "ship it, then make it smarter"
 
 $ ./get_in_touch.sh
 > always open to interesting problems_
@@ -31,7 +31,7 @@ $ ./get_in_touch.sh
 
 <br>
 
-**🎓 B.Tech AI & Data Science** · SRM Institute of Science and Technology · `2023 — 2027`
+**🎓 B.Tech Artificial Intelligence** · SRM Institute of Science and Technology · `2023 — 2027`
 **📍 Chennai, India**
 
 **🔭 Building:** Us — He / She / Us &nbsp;|&nbsp; **🌱 Exploring:** Agentic AI systems &nbsp;|&nbsp; **⚡ Internships:** AI Engineering, VR Game Dev, Mobile Game Dev

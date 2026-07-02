@@ -42,7 +42,7 @@ class Kavin:
 
 <br>
 
-**🔭 Building:** Us — He / She / Us &nbsp;|&nbsp; **🌱 Exploring:** Agentic AI systems &nbsp;|&nbsp; **⚡ Internships:** AI Engineering, VR Game Dev, Mobile Game Dev
+**🔭 Building:** Us — He / She / Us &nbsp;|&nbsp; **🌱 Exploring:** Agentic AI systems &nbsp;|&nbsp; **⚡ Internships:** AI Engineering, VR Game Dev, Mobile Game Dev.
 
 <br>
 

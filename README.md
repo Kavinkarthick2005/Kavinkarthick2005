@@ -85,7 +85,7 @@ WhisperFlow — AI-native CRM with multi-agent orchestration, intelligent segmen
 <td width="50%">
 
 **🌍 Carbon AQI**
-Real-time air quality monitoring & forecasting using XGBoost prediction and PPO reinforcement learning
+Real-time air quality monitoring & forecasting using XGBoost prediction and PPO reinforcement learning.
 `XGBoost` `PPO` `RL`
 
 </td>

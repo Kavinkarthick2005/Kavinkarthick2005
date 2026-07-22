@@ -37,7 +37,7 @@ class Kavin:
         self.philosophy  = "ship it, then make it smarter"
 
     def get_in_touch(self):
-        return "always open to interesting problems"
+        return "always open to interesting problems."
 ```
 
 <br>
